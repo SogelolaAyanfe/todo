@@ -3,13 +3,13 @@
 
 A modern, cross-platform todo application built with React Native, Expo, and Convex for real-time synchronization.
 
-## 📱 Download APK
+##  Download APK
 
 **Google Drive Link:**  https://drive.google.com/drive/folders/1obrebXF_HFpcSzvczgteIJy8RBqYMABe?usp=drive_link
 
 *Note: Enable "Install from unknown sources" in Android settings to install the APK*
 
-## ✨ Features
+##  Features
 
 - ** Create & Manage Todos** - Add, edit, and delete tasks
 - ** Theme Switching** - Light and dark mode support
@@ -48,7 +48,7 @@ bash
 npx eas-cli build --platform android
 
 
-🔧 Key Components
+ Key Components
 HomeScreen - Main todo interface
 
 TodoItem - Individual todo with edit/delete
@@ -58,7 +58,7 @@ ThemeToggle - Light/dark mode switch
 TodoModal - Add new todo form
 
 
-## 📋 To Use This README:
+##  To Use This README:
 
 1. **Create the file** in your todoapp project:
    ```bash
